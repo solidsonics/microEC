@@ -34,4 +34,7 @@ Coin-size and multifunctional.
 [tiny 3.7V Li-Po battery](https://a.co/d/aWmG9On)
 [Segger Jlink](https://a.co/d/bNsx1he)
 
+#### Optional Software
+[Serialtest](https://github.com/wh201906/SerialTest)
+
 ![enter image description here](http://github.com/solidsonics/microEC/blob/main/figures/microEC.jpg?raw=true "enter image title here")
