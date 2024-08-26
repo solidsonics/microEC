@@ -37,4 +37,5 @@ Coin-size and multifunctional.
 #### Optional Software
 [Serialtest](https://github.com/wh201906/SerialTest)
 
-![enter image description here](http://github.com/solidsonics/microEC/blob/main/figures/microEC.jpg?raw=true "enter image title here")
+![microEC](http://github.com/solidsonics/microEC/blob/main/figures/microEC.jpg?raw=true "enter image title here")
+![microECpinmap](http://github.com/solidsonics/microEC/blob/main/figures/microECpinmap.jpg?raw=true "enter image title here")
